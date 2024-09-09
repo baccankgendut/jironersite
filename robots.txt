@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap : https://jironersite.netlify.app/sitemap.xml
